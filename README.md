@@ -1,0 +1,2 @@
+# hospital
+first git repository
